@@ -1,0 +1,5 @@
+{
+  "name": "LINE Ads パフォーマンスダッシュボード",
+  "description": "LINE広告のキャンペーンパフォーマンスデータを視覚化し、分析するためのダッシュボードです。主要な指標、グラフ、AIによるインサイトを提供します。",
+  "requestFramePermissions": []
+}
